@@ -1,2 +1,2 @@
-# sometig-hooge
+# something-hooge
 a simple something hooge program
